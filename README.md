@@ -60,9 +60,9 @@ Additionally, the app includes an **Admin Module** where the admin can monitor p
 
   Name                  
 -------------------------------------
-  Lubna Yesmin             
-  Fabiha Bushra Chowdhury 
-  Farhana Akter Dina     
+  - Lubna Yesmin             
+  - Fabiha Bushra Chowdhury 
+  - Farhana Akter Dina     
 
 ---
 
